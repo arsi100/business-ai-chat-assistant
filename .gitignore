@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.*
+!.env.example
+
+# Virtual Environment
+venv/
+myenv_py311/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Local development
+.DS_Store
